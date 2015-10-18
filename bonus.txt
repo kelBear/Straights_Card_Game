@@ -1,5 +1,0 @@
-Bonus Features:
-
-1. Colour coded cards in the player's hand. All cards in the hand are colour coded to be either red or green. A green card represents a legal play and red card represents a valid discard. Colour coding is used to provide visual aid for a player's move.
-
-2. Texual record of moves played by all players are displayed in a box with scrollbar. Cards played show the cards that have been played by a certain player while cards discarded only show that a player has discarded a "card" to prevent other players from calculating the scores of other players before the end of the round. 
